@@ -75,8 +75,8 @@ export const config = {
   // OWNER / ABOUT SECTION
   // ============================================
   owner: {
-    name: "Görkem",
-    fullName: "Görkem Talu Yilmaz",
+    name: "Ayse",
+    fullName: "Ayse Yilmaz",
     image: "/beauty/frau.jpg",
     bio: [
       "Mit über 20 Jahren Erfahrung in der Beauty-Branche bringe ich Leidenschaft und Expertise in jede Behandlung.",
