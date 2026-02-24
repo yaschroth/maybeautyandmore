@@ -313,7 +313,7 @@ export const config = {
   // LOGO
   // ============================================
   logo: {
-    src: "/logo.png",
+    src: "", // Empty to show only name
     alt: "MAY Beauty & More Heilbronn Logo",
   },
 };
